@@ -1,5 +1,5 @@
 # HW_2_Terminal
-Here are the results of my second HW on Terminal. This file has not been fully updated. The results of all items can be found in the file HW_2_Terminal.txt.
+Here are the results of my second HW on Terminal.
 
 ## 1. Create a folder `dir_1`:
 
